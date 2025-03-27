@@ -7,7 +7,7 @@
 #define QUEUE_SIZE 10
 #define PRODUCER_SLEEP 2
 #define CONSUMER_SLEEP 3
-#define TOTAL_ITEMS 100
+#define TOTAL_ITEMS 20
 
 // define the assembly line
 typedef struct {

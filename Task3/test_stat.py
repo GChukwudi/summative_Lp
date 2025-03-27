@@ -1,6 +1,6 @@
 import stat_extention
 
-data = [1.5, 2, 2, 4.7, 1.5, 3, 2]
+data = [1.5, 2, 2, 1.5, 3, 19]
 
 print("Sum:", stat_extention.array_sum(data))
 print("Average:", stat_extention.array_average(data))

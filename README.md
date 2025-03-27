@@ -19,7 +19,6 @@ This repository contains tasks from Linux Programming in fulfilment of the summa
 - NASM compiler
 - POSIX threads library
 - strace utility for system call tracing
-- Valgrind
 
 ### System Requirements
 - 64-bit Linux Distribution

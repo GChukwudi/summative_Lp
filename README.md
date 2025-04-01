@@ -7,8 +7,8 @@ This repository contains tasks from Linux Programming in fulfilment of the summa
 - [Requirements](#requirements)
 - [Question 1: ELF Binary Analysis](#question-1-binary-file-analysis)
 - [Question 2: Assembly Program](#question-2-program-in-assembly-language)
-- [Question 3: C Extention](#question-3-c-extention)
-- [Question 4: Producer - Consumer](#question-4-producer-consumer)
+- [Question 3: C Extension](#question-3-c-extension)
+- [Question 4: Producer - Consumer](#question-4-producer-&-consumer)
 - [Question 5: Chat System](#question-5-chat-system)
 
 ## Requirements
@@ -110,7 +110,7 @@ python3 test_stat.py
 - Mode calculation
 - Count of array elements
 
-## Question 4: Producer - Consumer
+## Question 4: Producer & Consumer
 
 ### Program Description
 A C program that simulates a producer-consumer model for a factory assembly line.
